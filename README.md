@@ -19,7 +19,7 @@ Binary Search Tree (BST) (Efficient Search)
 
 Menu-driven console interface.
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 Java (Core Java, OOP concepts)
 
@@ -28,25 +28,25 @@ Data Structures: Linked List, Binary Search Tree
 Scanner Class for user input
 
 📂 Project Structure
-<pre>'''StudentInformationSystem.java
+<pre> StudentInformationSystem.java
 │
 ├── class Student              // Represents student data
 ├── class StudentLinkedList    // Stores students using Linked List
 ├── class StudentBST           // Stores students using Binary Search Tree
-└── public class StudentInformationSystem // Main class with menu'''</pre>
+└── public class StudentInformationSystem // Main class with menu </pre>
 
 ▶️ How to Run
 
-Clone or download this repository.
+1.Clone or download this repository.
 
-Compile the code:
+2.Compile the code:
 
-javac StudentInformationSystem.java
+<pre>javac StudentInformationSystem.java</pre>
 
 
-Run the program:
+3.Run the program:
 
-java StudentInformationSystem
+<pre>java StudentInformationSystem</pre>
 
 📋 Sample Menu
 Student Information System
