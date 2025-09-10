@@ -1,4 +1,5 @@
-###Student Information System (Java Project)
+Student Information System (Java Project)
+
 **📌 Overview**
 
 This is an *intermediate-level Java project* that implements a Student Information System using Object-Oriented Programming and Data Structures.
@@ -27,12 +28,12 @@ Data Structures: Linked List, Binary Search Tree
 Scanner Class for user input
 
 📂 Project Structure
-'''StudentInformationSystem.java
+<pre>'''StudentInformationSystem.java
 │
 ├── class Student              // Represents student data
 ├── class StudentLinkedList    // Stores students using Linked List
 ├── class StudentBST           // Stores students using Binary Search Tree
-└── public class StudentInformationSystem // Main class with menu'''
+└── public class StudentInformationSystem // Main class with menu'''</pre>
 
 ▶️ How to Run
 
