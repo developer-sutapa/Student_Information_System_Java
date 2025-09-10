@@ -1,10 +1,10 @@
-###Student Information System (Java Project)###
-📌 Overview
+###Student Information System (Java Project)
+**📌 Overview**
 
-This is an intermediate-level Java project that implements a Student Information System using Object-Oriented Programming and Data Structures.
+This is an *intermediate-level Java project* that implements a Student Information System using Object-Oriented Programming and Data Structures.
 The system allows users to add, view, and search student records using both a Linked List (Linear Search) and a Binary Search Tree (Binary Search).
 
-🚀 Features
+**🚀 Features**
 
 Add new student records (ID, Name, Department, Grade).
 
@@ -27,12 +27,12 @@ Data Structures: Linked List, Binary Search Tree
 Scanner Class for user input
 
 📂 Project Structure
-StudentInformationSystem.java
+'''StudentInformationSystem.java
 │
 ├── class Student              // Represents student data
 ├── class StudentLinkedList    // Stores students using Linked List
 ├── class StudentBST           // Stores students using Binary Search Tree
-└── public class StudentInformationSystem // Main class with menu
+└── public class StudentInformationSystem // Main class with menu'''
 
 ▶️ How to Run
 
@@ -70,6 +70,3 @@ Save student data to a file (persistence).
 
 Developed as part of a Java Intermediate Project to demonstrate OOP, data structures, and user interaction.
 
-Would you like me to also create a smaller README.md template (minimal version) you can paste directly into GitHub without the long details?
-
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
